@@ -1,7 +1,7 @@
-# VanHack Test
+# VanHack Test.
 
-Just the code test had to VanHack.
+Project used to solve the vanhack code challenge.
 
 The ideia here is just to show my code style.
 
-If you have questions, feel free to send me a message.
+If you have questions, feel free to send me.
