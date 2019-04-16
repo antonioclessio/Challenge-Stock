@@ -16,6 +16,7 @@ namespace StockOpenClosePrice
             var month = splitedDate[1];
             var year = int.Parse(splitedDate[2]);
             
+            // Here I could use the Globalization to get the month name by the current location, but to avoid problems at the plataform, was better get the month name hardcoded like that.
             var monthNumber = 0;
             if (month.Equals("January")) monthNumber = 1;
             if (month.Equals("February")) monthNumber = 2;
