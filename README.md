@@ -1,6 +1,6 @@
-# VanHack Test.
+# Code Challenge Test.
 
-Project used to solve the vanhack code challenge.
+Project used to solve the code challenge from a company.
 
 The ideia here is just to show my code style.
 
